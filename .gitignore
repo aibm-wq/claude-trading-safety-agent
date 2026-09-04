@@ -1,0 +1,14 @@
+# Credenciales — nunca en git
+.env
+
+# Kill switch (estado local, no código)
+TRAILING_STOP_OFF
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# OS
+.DS_Store
+Thumbs.db

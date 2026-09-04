@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "metatrader": {
+      "type": "stdio",
+      "command": "python",
+      "args": ["conexiones/run_mt5_mcp.py"]
+    }
+  }
+}
